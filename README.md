@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [midterm project](https://github.com/Yrysbaev/midterm2023.git)
 <img width="1434" alt="Screenshot 2023-03-28 at 20 11 17" src="https://user-images.githubusercontent.com/80979284/228267849-c33c4763-fdcd-4b8f-a0af-46eb65b7ae06.png">
-
+<img width="1434" alt="Screenshot 2023-03-28 at 20 11 17" src="https://user-images.githubusercontent.com/80979284/228268311-5936c4b0-6f59-4270-9304-1785be3b3354.png">
 
 - 🌱 I’m currently learning **the Spring boot**
 
